@@ -14,6 +14,12 @@ git config user.password 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
 
 git remote add origin
 
+git add .
+
+git commit -m probandoRepositorio
+
+git push -u origin master/main
+
 
 
 
