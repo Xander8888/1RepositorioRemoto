@@ -1,0 +1,110 @@
+Desarrollar una aplicacion web
+        full stack
+
+
+Backlog
+
+1) Desarrollar Arquitectura distribuida que contenga:
+a) base de datos - 
+b) Apis/Back end -
+c) Front end -
+
+Comenzar el armado del contenido del porfolio:
+2) Header
+P.Superior derecha: redes sociales + boton de edicion.
+P.Superior izquierda: Logo + nombre del programa 
+Abajo: banner representandome.
+
+3) Acerca de mi:
+Foto de perfil + nombre + titulo (Full stack developer jr).
+Informacion profesional resumida sobre mi.
+
+·Experiencia:
+Lugares en los que trabaje + puesto + periodo + logo de empresa + 
+actividad realizada en el puesto.
+
+·Educacion:
+Inf.Formacion academica + Certificaciones + Cursos + Todo sobre el
+titulo actual.
+info del instituto, logo, nombre, carrera o tirulo estudiado, 
++ periodo en el que estoy o año.
+
+4) hard & soft skill:
+visualizar en porcentaje u otra forma de visualizacion atractiva
+ las abilidades fuertes y blandas relacionadas conmigo
+y el grado de dominio. (seccion adicional opcional con los idiomas que
+ domino y en que nivel)
+
+
+5) Seccion de proyectos:
+Informacion sobre los proyectos que desarrolle o estuve 
+involucrado, incluyendo el porfolio. Cada proyecto debe contener 
+el nombre + fecha de realizacion + descripcion del proyecto + link a 
+su evidencia.
+tambien se pueden adjuntar imagenes sobre ellos.
+
+6) Login:
+Acceso que debera realizarse con username y password con el objetivo
+de activar la edicion del portfolio wed.
+
+
+7) Botones de edicion:
+
+a) Boton logout:
+Este boton debe cambiar lugar con el de login ya que estaras desde el
+modo edicion, sera necesario salir de este para visualizar tu porfolio
+
+b) Boton de edicion:
+El sistema tendra que tener botones para la edicion del contenido,
+generalmente representados por un lapiz, el cual al precionarlo, 
+deberia hacer aparecer un modal con los elementos en modo de edicion.
+
+c) Boton para eliminar:
+El boton de eliminar servira para quitar algun elementi de alguna 
+seccion que dees, comunmente se muestra como una "X".
+
+·Funciones adicionales:
+El porfolo tiene formato libre, pero siempre puedes integrar funcionalidades
+interesantes como "Drag and Drop" que te permitirá cambiar el orden de los
+elementos sin tenr que eliminarlos.
+
+·Funciones adicionales:
+-Sector de informacion sobre todos los cambios Finales 
+(resultados de modificacion) hechos en el porfolio.
+-Ilustraciones decoratibas + Ilus.Funciones.
+-Sector de intereses.
+-Juegos.
+-Animaciones.
+
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_

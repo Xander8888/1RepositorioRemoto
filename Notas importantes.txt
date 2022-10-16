@@ -1,0 +1,19 @@
+token de repositorio:
+
+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
+
+
+git init
+
+ git config user.name Xander.8888
+
+git config user.email alexander.mjeihscc@gmail.com
+
+
+git config user.password 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
+
+git remote add origin
+
+
+
+
